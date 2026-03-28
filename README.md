@@ -10,6 +10,16 @@
     
 ###
 ---
+<div align="center">
+  <a href="https://github.com/TahaDev0/taha-dev-social-connect" target="_blank" rel="noopener noreferrer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Click%20here%20to%20open%20the%20programs%20page%20%7C%20%D8%A7%D8%B6%D8%BA%D8%B7%20%D9%87%D9%86%D8%A7%20%D9%84%D8%AF%D8%AE%D9%88%D9%84%20%D9%84%D8%B5%D9%81%D8%AD%D8%A9%20%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D9%85%D8%AC&fontSize=20&fontAlignY=70" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/TahaDev0/taha-dev-social-connect" target="_blank" rel="noopener noreferrer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Apps%20%20Page%20%20|صفحة%20البرامج%20&fontSize=24&fontAlignY=70" />
+  </a>
+</div>
 # 🧑‍💼 عنّي (About Me)
 
 <div align="center">
