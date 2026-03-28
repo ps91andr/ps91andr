@@ -4,9 +4,9 @@
 ## 📥 البرامج | Apps
 
 🔗 [Click here to view and download apps | اضغط هنا لعرض وتحميل البرامج]
-[![Download Apps](https://img.shields.io/badge/📥%20Download%20Apps-000?style=for-the-badge&logo=github)](https://github.com/TahaDev0/taha-dev-social-connect/blob/main/README.md)
-- 🔗 [صفحة تحميل البرامج](https://github.com/TahaDev0/taha-dev-social-connect/blob/main/README.md)
-- 🔗 [Apps Download Page](https://github.com/TahaDev0/taha-dev-social-connect/blob/main/README.md)
+[![Download Apps](https://img.shields.io/badge/📥%20Download%20Apps-000?style=for-the-badge&logo=github)](https://github.com/TahaDev0/taha-dev-social-connect)
+- 🔗 [صفحة تحميل البرامج](https://github.com/TahaDev0/taha-dev-social-connect)
+- 🔗 [Apps Download Page](https://github.com/TahaDev0/taha-dev-social-connect)
     
 ###
 ---
